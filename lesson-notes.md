@@ -36,9 +36,8 @@ age = input ('Please enter your age:\n') # Step 1 is to get the data from the us
 age = float(age) # Step 2 is to convert the string input to numeric data (a number)
 print(age)
 ```
-
-# Converting string input to a number in one step
 ```python
+# Converting string input to a number in one step
 num_inches = float(input('Enter the number of inches to convert to centimeters:\n')) # Getting input and converting string input to a float in one step
 num_cm = 2.54 * num_inches
 print(f'You have {num_cm} centimeters!')
