@@ -26,4 +26,21 @@
   - A *floating-point* number is a number that has a decimal point
   - An *integer* is just a number that DOES NOT have a decimal point (such as 3, 2758, -450, etc.)
  
+### Examples
+
+```python
+# You can convert string input to a number in one step or in two steps
+
+# Converting string input to numeric data in two steps
+age = input ('Please enter your age:\n') # Step 1 is to get the data from the user
+age = float(age) # Step 2 is to convert the string input to numeric data (a number)
+print(age)
+
+
+# Converting string input to a number in one step
+```python
+num_inches = float(input('Enter the number of inches to convert to centimeters:\n')) # Getting input and converting string input to a float in one step
+num_cm = 2.54 * num_inches
+print(f'You have {num_cm} centimeters!')
+```
   
