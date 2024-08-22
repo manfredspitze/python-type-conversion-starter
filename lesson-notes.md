@@ -22,6 +22,6 @@
   - Boolean (True or False values)
 - The built-in Python `input( )` function always returns a string (text data)
   - To do math when using the `input( )` function, you have to convert the string data the `input( )` function gives you to either a **floating-point** number (by using the `float ( )` function together with the `input ( )` function) OR an integer (using the `int( )` function together with the `input( )` function
-  - Example: See [*Type Conversion in Python*](https://www.programiz.com/python-programming/numbers)
+  - Example: See the code snippet under [*Type Conversion in Python*](https://www.programiz.com/python-programming/numbers)
  
   
