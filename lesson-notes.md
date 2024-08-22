@@ -6,8 +6,8 @@
 
 
 ### Related Resources
-- [Duck Duck Go](https://duckduckgo.com)
-- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+- [Python Strings]([https://duckduckgo.com)](https://www.programiz.com/python-programming/string)
+- [Python Basics: Strings](https://www.pythontutorial.net/python-basics/python-string/)
 
 
 ### Notes
