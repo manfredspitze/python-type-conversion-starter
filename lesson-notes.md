@@ -6,7 +6,7 @@
 
 
 ### Related Resources
-- [Python Strings]([https://duckduckgo.com)](https://www.programiz.com/python-programming/string)
+- [Python Strings](https://www.programiz.com/python-programming/string)
 - [Python Basics: Strings](https://www.pythontutorial.net/python-basics/python-string/)
 
 
