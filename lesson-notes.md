@@ -23,5 +23,7 @@
 - The built-in Python `input( )` function always returns a string (text data)
   - To do math when using the `input( )` function, you have to convert the string data the `input( )` function gives you to either a **floating-point** number (by using the `float ( )` function together with the `input ( )` function) OR an integer (using the `int( )` function together with the `input( )` function
   - Example: See the code snippet under [*Type Conversion in Python*](https://www.programiz.com/python-programming/numbers)
+  - A *floating-point* number is a number that has a decimal point
+  - An *integer* is just a number that DOES NOT have a decimal point (such as 3, 2758, -450, etc.)
  
   
