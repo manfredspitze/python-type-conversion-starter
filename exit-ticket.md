@@ -1,18 +1,16 @@
 
 # Exit Ticket
 
-## Name ______________________________________     AM               PM  (Circle one)
-
-## Today's Topic: XYZ
+## Today's Topic: Converting Data Types in Python
 
 - Please answer the following questions 
 - Use correct spelling and grammar
 
-### Question 1
-- Question 1
+### Briefly explain why you can't use just the `input( )` function by itself to do math in Python.
+- *Your answer*
 
 
-### Question 2
-- Question 2
+### Explain the difference between a string and a numeric data type (such as an integer or a floating-point number).
+- *Your answer*
 
 
