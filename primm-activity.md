@@ -15,7 +15,7 @@ Answer these questions about the code.  Be specific in your answers!
 > Answer 1
 
 
-2. On line 7, the code snippet is writtten like this:
+2. On line 7, you are assigning (storing) a string in the variable `greeting`:
 ```
 greeting = 'Hello, world!'
 ```
