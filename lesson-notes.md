@@ -42,4 +42,11 @@ num_inches = float(input('Enter the number of inches to convert to centimeters:\
 num_cm = 2.54 * num_inches
 print(f'You have {num_cm} centimeters!')
 ```
+
+```python
+# Sometimes you need to convert numeric data to string data (text data)
+# Example: When you concatenate strings and want to insert a number into the concatenated string
+length = 20 # Length of rectangle in feet
+print('The length of the rectangle is ' + str(length) + ' feet.')
+```
   
