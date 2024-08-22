@@ -19,5 +19,5 @@ Answer these questions about the code.  Be specific in your answers!
 ```
 greeting = 'Hello, world!'
 ```
-Is there another way to tell Python you're working with a string?  If so, how?
+Is there another way to tell Python the variable `greeting` contains a string?  If so, how?
 > Answer 2
