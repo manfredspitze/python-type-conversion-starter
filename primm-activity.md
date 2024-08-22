@@ -15,5 +15,9 @@ Answer these questions about the code.  Be specific in your answers!
 > Answer 1
 
 
-2. On line 7, is there another way to tell Python you're working with a string?  If so, how?
+2. On line 7, the code snippet is writtten like this:
+```
+greeting = 'Hello, world!'
+```
+Is there another way to tell Python you're working with a string?  If so, how?
 > Answer 2
